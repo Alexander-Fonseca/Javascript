@@ -8,7 +8,7 @@ function typeWrite(elemento) {
         //animação
         setTimeout(function() {
             elemento.innerHTML += letra;
-        }, 75 * i)
+        }, 100 * i)
     });
 }
 
